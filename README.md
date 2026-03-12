@@ -133,7 +133,9 @@ The server starts on port `3000`.
 
 This project is part of a series on AI Engineering. Each project explores a specific pattern or concern when building systems on top of LLMs.
 
-| #   | Project                                                          | Description                                                                           |
-| --- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| 01  | [LLM API](https://github.com/duroteus/basic-llm-api-example)     | Minimal LLM-powered REST API with in-memory cache, rate limiting, and cost tracking   |
-| 02  | [JSON Parser](https://github.com/duroteus/basic-llm-json-parser) | Structured data extraction from free text using prompt engineering and Zod validation |
+| #   | Project                                                                | Description                                                                                  |
+| --- | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| 01  | [LLM API](https://github.com/duroteus/basic-llm-api-example)           | Minimal LLM-powered REST API with in-memory cache, rate limiting, and cost tracking          |
+| 02  | [JSON Parser](https://github.com/duroteus/basic-llm-json-parser)       | Structured data extraction from free text using prompt engineering and Zod validation        |
+| 03  | [Semantic Search API](https://github.com/duroteus/semantic-search-api) | Full RAG pipeline with pgvector retrieval, context reconstruction, and LLM answer generation |
+| 04  | [AI Data Agent](https://github.com/duroteus/ai-data-agent)             | Agentic loop with tool use, SQL execution, Redis memory, and chart generation                |
